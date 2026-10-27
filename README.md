@@ -13,7 +13,7 @@ A Python data analysis project testing whether depression severity is linked to 
 |---|---|---|
 | ME/CFS | 7.4 | 7.5 |
 | Depression | 15.0 | 4.8 |
-| Both | 16.4 | 7.5 |
+| Both | 16.4 | 7.4 |
 
 - Together, the two scores clearly separate the three diagnosis groups, which makes them strong candidate features for a classification model.
 - **Data quality flag:** dense bands at PHQ-9 ≈ 9–10 and fatigue = 7 in the scatter plot suggest imputed or default values.
