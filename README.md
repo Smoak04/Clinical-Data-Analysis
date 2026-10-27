@@ -4,7 +4,7 @@ A Python data analysis project testing whether depression severity is linked to 
 
 ## Key findings
 
-![Fatigue by diagnosis](images/boxplot.png)
+![Fatigue by diagnosis](images/fatigue-by-diagnosis.png)
 
 - **The hypothesis was not supported.** Across all patients, depression and fatigue show only a weak negative correlation (**Pearson r ≈ −0.20, p < 0.001, n = 957**).
 - **Diagnosis drives the pattern.** ME/CFS patients have high fatigue but low depression, depression patients the opposite, and patients with both conditions score high on both.
